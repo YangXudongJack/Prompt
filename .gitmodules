@@ -1,3 +1,6 @@
 [submodule "ScreenShot"]
 	path = ScreenShot
 	url = https://github.com/YangXudongJack/ScreenShot.git
+[submodule "JYMenuview"]
+	path = JYMenuview
+	url = https://github.com/YangXudongJack/JYMenuview.git
